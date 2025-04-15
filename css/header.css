@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    background: linear-gradient(90deg,#003b7e 0%,#1b68ab 48%,#1d70b8 100%);
+    color: #fff;
+    height: 70px;
+    /* flex-direction: column; */
+}
+
+.header-content{
+    padding: 0 10px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
